@@ -1,4 +1,5 @@
-# frontend
+# TO run the project, download the source code and install the following depenedencies.
+# frontend to install Vue
 
 ## Project setup
 ```
@@ -10,15 +11,17 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+# backend 
 ```
-npm run build
+Composer install
+```
+# To run the local server
+```
+php -S localhost:8000
+
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
