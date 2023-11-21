@@ -1,0 +1,12 @@
+{
+    "name": "vishnukanduri/backend",
+    "type": "guzzlehttp",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vishnukanduri\\Backend\\": "src/"
+        }
+    }
+}
